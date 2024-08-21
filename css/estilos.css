@@ -1,0 +1,21 @@
+.bg-color{
+    background-color: rgb(41, 167, 68);
+}
+.imgnav{
+    height: 80px;
+}
+.spanstyle{
+    border-bottom: 2px dotted #000;
+}
+.btnenviar{
+    background-color: rgb(150, 201, 62);
+}
+.footerstyle{
+    background: linear-gradient(rgb(28, 54, 67), rgb(30, 83, 114));
+}
+.btn-codo{
+    background-color:#97c93e;
+    color: white;
+    width: 98%;
+    margin: 2%;
+}
